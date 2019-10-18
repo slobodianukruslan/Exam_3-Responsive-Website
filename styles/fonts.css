@@ -1,0 +1,60 @@
+ @font-face {
+ 	font-family:"Proxima_Nova_Bold";
+ 	src:
+ 	url("../fonts/Proxima_Nova_Bold.woff") format("woff"),
+ 	url("../fonts/Proxima_Nova_Bold.woff2") format("woff2"),
+ 	url("../fonts/Proxima_Nova_Bold.ttf") format("truetype"),
+ 	url("../fonts/Proxima_Nova_Bold.otf") format("otf");
+ 	font-weight: normal;
+ 	font-style: normal;
+ }
+
+  @font-face {
+ 	font-family:"Proxima_Nova_SemiBold";
+ 	src:
+ 	url("../fonts/Proxima_Nova_SemiBold.woff") format("woff"),
+ 	url("../fonts/Proxima_Nova_SemiBold.woff2") format("woff2"),
+ 	url("../fonts/Proxima_Nova_SemiBold.otf") format("otf");
+ 	font-weight: normal;
+ 	font-style: normal;
+ }
+
+ @font-face {
+ 	font-family:"PTSans-Regular";
+ 	src:
+ 	url("../fonts/PTSans-Regular.woff2") format("woff2"),
+ 	url("../fonts/PTSans-Regular.woff") format("woff"),
+ 	url("../fonts/PTSans-Regular.ttf") format("truetype");
+ 	font-weight: normal;
+ 	font-style: normal;
+ }
+
+ @font-face {
+ 	font-family:"PTSans-RegularItalic";
+ 	src:
+ 	url("../fonts/PTSans-RegularItalic.woff2") format("woff2"),
+ 	url("../fonts/PTSans-RegularItalic.woff") format("woff"),
+ 	url("../fonts/PTSans-RegularItalic.ttf") format("truetype");	
+ 	font-weight: normal;
+ 	font-style: normal;
+ }
+
+ @font-face {
+ 	font-family:"PTSans-BoldItalic";
+ 	src:
+ 	url("../fonts/PTSans-BoldItalic.woff2") format("woff2"),
+ 	url("../fonts/PTSans-BoldItalic.woff") format("woff"),
+ 	url("../fonts/PTSans-BoldItalic.ttf") format("truetype");
+ 	font-weight: normal;
+ 	font-style: normal;
+ }
+
+  @font-face {
+ 	font-family:"PTSans-Bold";
+ 	src:
+ 	url("../fonts/PTSans-Bold.woff2") format("woff2"),
+ 	url("../fonts/PTSans-Bold.woff") format("woff"),
+ 	url("../fonts/PTSans-Bold.ttf") format("truetype");
+ 	font-weight: normal;
+ 	font-style: normal;
+ }
