@@ -1092,6 +1092,10 @@ footer {
 	.row-half {
 		height: 60vh;
 	}
+
+	.cell__tittle {
+		margin-top: 3px;
+	}
 	
 	/* Section 3 Slider */
 
