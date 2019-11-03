@@ -1083,6 +1083,10 @@ footer {
 		line-height: 40px;		
 	}
 
+	.item__link {
+		padding: 0;
+	}
+
 	/* Section 1 - About us */
 
 	.about__info {
