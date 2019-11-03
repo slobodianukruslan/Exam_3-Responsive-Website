@@ -267,7 +267,7 @@ body {
 /* Section 2 - Services */
 
 .services {
-	background-color: #ebebeb;	
+	background-color: #ebebeb;		
 }
 
  /* [class*="col"] {
@@ -1083,6 +1083,33 @@ footer {
 		line-height: 40px;		
 	}
 
+	/* Section 1 - About us */
+
+	.about__info {
+		padding: 0;
+	}
+
+	.about__info p:nth-child(2) {
+		margin-bottom: 20px;
+	}
+
+	.about__info p {
+		margin-bottom: 25px;
+	}
+
+	.box__tittle {
+		margin-top: 10px;
+	}
+
+	.wrap__box {
+		width: 60%;		
+	}
+
+	.about__box {
+		margin-bottom: 10px;
+		min-height: 150px;
+	}
+
 	/* Section 2 - Services */
 
 	.cell-big {
@@ -1100,6 +1127,10 @@ footer {
 	.cell__content img {
 		margin-top: 20px;
 	}
+
+	.services {
+		padding-bottom: 20px;
+}
 
 	/* Section 3 Slider */
 
