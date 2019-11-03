@@ -1094,9 +1094,13 @@ footer {
 	}
 
 	.cell__tittle {
-		margin-top: 3px;
+		margin-top: 10px;
 	}
 	
+	.cell__content img {
+		margin-top: 20px;
+	}
+
 	/* Section 3 Slider */
 
 	.recent__tittle {
