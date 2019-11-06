@@ -1172,7 +1172,7 @@ footer {
 	/* Section 4 - Meet Our Team */
 
 	.our_team {
-		padding: 20px 0 45px;
+		padding: 20px 0 60px;
 	}
 	
 	.team__slider .slick-dots {
@@ -1184,7 +1184,11 @@ footer {
 	}
 
 	.card__social {
-		margin-top: 25px;
+		margin-top: 15px;
+	}
+
+	.recent__tittle {
+		margin: 15px 0 0;
 	}
 
 	/* FOOTER */
