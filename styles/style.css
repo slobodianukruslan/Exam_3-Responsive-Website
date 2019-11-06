@@ -1143,10 +1143,6 @@ footer {
 		padding-bottom: 10px;
 	}
 
-	/* Section 3 - Recent Works */
-
-
-
 	/* Section 3 Slider */
 
 	.recent__tittle {
@@ -1191,6 +1187,67 @@ footer {
 		margin: 15px 0 0;
 	}
 
+	/* Section 5 - Get in touch */
+
+	.get__form {
+		width: 95%;
+		left: 2.5%;
+		bottom: 15px;
+	}
+
+	.form__field {
+		padding: 5px 25px;
+	}
+
+	.get__tittle {
+		margin-top: 10px;
+	}
+
+	.get__header {
+		top: 20px;
+	}
+
+	.form__btn {
+		margin-top: 10px;
+		width: 50%;
+	}
+
+	.get__btn {
+		bottom: 20px;
+		right: 2.5%;
+		width: 45px;
+		height: 42px;
+	}
+
+	.btn__arrow {
+		width: 25px;
+		height: 25px;
+		left: calc(50% - 12.5px);
+	}
+
+	.get__info {
+		top: 2.5%;
+	}
+
+	.info__btn {
+		width: 45px;
+		height: 75px;
+	}
+
+	.form__field--textarea {
+		height: 175px;
+	}
+
+	.info__address, .info__phone {
+		height: 75px;
+		font-size: 17px;
+	}
+
+	.info__phone {
+		top: 75px;
+		line-height: 75px;
+	}
+
 	/* FOOTER */
 	
 	.footer__wrap {
@@ -1199,23 +1256,5 @@ footer {
 		flex-direction: column;
 		justify-content: space-around;
 		align-items: center;
-	}
-
-	/* Section 5 - Get in touch */
-
-	.get__btn {
-		width: 57px;
-		height: 54px;
-	}
-	
-	.btn__arrow {
-		width: 25px;
-		height: 25px;
-		left: calc(50% - 12.5px);
-	}
-
-	.form__btn {
-		width: 50%;
-	} 
-
+	}	
 }
