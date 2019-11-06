@@ -1169,6 +1169,24 @@ footer {
 		margin-bottom: 50px;
 	}
 
+	/* Section 4 - Meet Our Team */
+
+	.our_team {
+		padding: 20px 0 45px;
+	}
+	
+	.team__slider .slick-dots {
+		bottom: -36px;
+	}
+
+	.card__name {
+		margin: 135px 0 0;
+	}
+
+	.card__social {
+		margin-top: 25px;
+	}
+
 	/* FOOTER */
 	
 	.footer__wrap {
