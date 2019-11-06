@@ -1076,6 +1076,13 @@ footer {
 
 @media (max-width: 577px) {
 
+	.container {
+		max-width: 100%;	
+		width: 93%;
+		padding: 0 10px;
+		margin: 0 auto;		
+	}
+
 	/* Header */
 
 	.content__main {
@@ -1133,17 +1140,33 @@ footer {
 	}
 
 	.services {
-		padding-bottom: 20px;
-}
+		padding-bottom: 10px;
+	}
+
+	/* Section 3 - Recent Works */
+
+
 
 	/* Section 3 Slider */
 
 	.recent__tittle {
-		margin: 15px 0 30px;
+		margin: 15px 0;
 	}
 
 	.recent_works {
-		padding: 30px 0;
+		padding: 15px 0 25px;
+	}
+
+	.recent__slider .slick-dots {
+		bottom: -40px;
+	}
+
+	.slider__item {
+		height: 65vh;
+	}
+
+	.recent__slider {
+		margin-bottom: 50px;
 	}
 
 	/* FOOTER */
