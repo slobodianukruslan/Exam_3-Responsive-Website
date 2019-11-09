@@ -1253,10 +1253,15 @@ footer {
 	/* FOOTER */
 	
 	.footer__wrap {
-		height: 100px;
+		height: 80px;
 		display: flex;
 		flex-direction: column;
-		justify-content: space-around;
+		justify-content: center;
 		align-items: center;
 	}	
+
+	.footer__contact {
+		margin-top: 5px;
+	}
+
 }
