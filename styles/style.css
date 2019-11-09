@@ -1241,6 +1241,8 @@ footer {
 	.info__address, .info__phone {
 		height: 75px;
 		font-size: 17px;
+		background-color: rgba(235,235,235,0.8);
+		color: gray;
 	}
 
 	.info__phone {
