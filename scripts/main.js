@@ -6,7 +6,7 @@ $(function(){
 		event.preventDefault();
 
 		$("#nav_toggle").toggleClass("active");	
-		$(".menu__nav").toggleClass("active");
+		$(".menu__nav").toggleClass("active");				
 	});
 
 	/* Slider in Section 3 - Recent Works */
@@ -83,4 +83,8 @@ $(function(){
 		}
 		]
 	});
+
+
+	// Initialization WOW.JS
+	new WOW().init();
 });

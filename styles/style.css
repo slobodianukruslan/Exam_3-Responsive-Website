@@ -1002,15 +1002,16 @@ footer {
 		margin-top: 0;
 		width: 35%;
 		z-index: 1000;
-		transform-origin: center;
-		transform: scaleX(0);
-		transition: 0.75s;			
+		/*transform-origin: center;*/
+		/*transform: scaleX(0);*/
+		transition: transform 0.75s;			
 	}
 
 	.menu__nav.active {
-		display: block;
-		transform: scaleX(1);		
+		display: block;										
+		/*transform: scaleX(1);*/
 	}
+
 
 	.nav__list {
 		display: flex;
